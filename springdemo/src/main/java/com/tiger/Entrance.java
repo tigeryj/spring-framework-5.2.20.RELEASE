@@ -24,4 +24,5 @@ public class Entrance {
 		System.out.println(helloService.sayHello("你好"));
 
 	}
+
 }
